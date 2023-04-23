@@ -1,0 +1,4 @@
+Mot: manger,Type: Verbe,traduction: eat,exemple_fr: J'ai mangé un abricot ce matin,exemple_ang: I ate an apricot this morning
+Mot: dormir,Type: Verbe,traduction: sleep,exemple_fr: Je me sens bien car j'ai bien dormi,exemple_ang: I feel good because I slept well
+Mot: toucher,Type: Verbe,traduction: touch,exemple_fr: Les joueurs doivent toucher l'écran pour commencer la partie,exemple_ang: Players need to touch the screen to start the game
+Mot: toucher,Type: Verbe,traduction: feel,exemple_fr: Dans ce jeu chacun doit toucher un objet et deviner ce que c'est,exemple_ang: In this game you must feel an object and guess what it is

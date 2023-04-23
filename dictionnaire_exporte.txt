@@ -1,0 +1,9 @@
+Mot: amitié,Type: Nom,Traduction: friendship,Exemple_fr: faire quelque chose par amitié,Exemple_ang: to do something out of friendship
+Mot: livre,Type: Nom,Traduction: book,Exemple_fr: j’ai lu ce livre,Exemple_ang: I read this book 
+Mot: voir,Type: Verb,Traduction: see,Exemple_fr: il ne voit rien de l’oeil gauche,Exemple_ang: he can’t see anything with his left eye
+Mot: livre,Type: Nom,Traduction: pound,Exemple_fr: une demi livre de beurre représente 250 g de beurre,Exemple_ang: half a pound of butter is 250 grams of butter
+Mot: voir,Type: Verb,Traduction: understand,Exemple_fr: tu vois ce que je veux dire ?,Exemple_ang: do you understand what I mean ? 
+Mot: manger,Type: Verbe,Traduction: eat,Exemple_fr: J'ai mangé un abricot ce matin,Exemple_ang: I ate an apricot this morning
+Mot: dormir,Type: Verbe,Traduction: sleep,Exemple_fr: Je me sens bien car j'ai bien dormi,Exemple_ang: I feel good because I slept well
+Mot: toucher,Type: Verbe,Traduction: touch,Exemple_fr: Les joueurs doivent toucher l'écran pour commencer la partie,Exemple_ang: Players need to touch the screen to start the game
+Mot: toucher,Type: Verbe,Traduction: feel,Exemple_fr: Dans ce jeu,Exemple_ang: chacun doit toucher un objet et deviner ce que c'est
